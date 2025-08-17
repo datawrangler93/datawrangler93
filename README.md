@@ -39,7 +39,8 @@ My work blends *SQL, Python, BI tools, and machine learning* to deliver actionab
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](#) (add your profile link here)  
-- 🌐 [Portfolio Website](#) (optional)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 📧 yourname [at] example [dot] co
+- 
 
 
