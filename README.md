@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm datawrangler93
 
-🚀 Data & Analytics Professional | 📊 Data Scientist | ⚙ MLOps & Automation Enthusiast  
+📊 Data Scientist | 🚀 Data & Analytics Professional | ⚙ MLOps & Automation Enthusiast  
 
 I specialize in *forecasting, predictive modeling, automation, and deployment*.  
 My work blends *SQL, Python, BI tools, and machine learning* to deliver actionable insights and production-ready solutions.  
